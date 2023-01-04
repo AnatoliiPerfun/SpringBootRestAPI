@@ -18,7 +18,7 @@ The following steps will run a local instance of the Temporal Server using the d
 3. Run the `docker-compose up` command.
 
 ```bash
-git clone 
+git clone https://github.com/AnatoliiPerfun/SpringBootRestAPI.git
 cd  docker-compose
 docker-compose up
 ```
